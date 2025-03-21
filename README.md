@@ -28,7 +28,7 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=physcorgi&show_icons=true&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=physcorgi&show_icons=true&count_private=true&theme=radical" width="48%">
   <img src="https://streak-stats.demolab.com/?user=physcorgi&theme=radical" width="48%">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=physcorgi&layout=compact&theme=radical" width="48%">
